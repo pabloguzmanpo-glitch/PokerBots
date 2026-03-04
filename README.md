@@ -1,3 +1,5 @@
+![PokerBots](PokerBots01.jpg)
+![PokerBots](PokerBots02.jpg)
 # 🃏 PokerBots
 
 Real-time Texas Hold'em poker game where you play against AI bots with unique personalities. Built this as a fun experiment mixing game logic, websockets and bot behavior — ended up being way more entertaining than expected.
